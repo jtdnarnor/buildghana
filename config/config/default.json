@@ -1,0 +1,4 @@
+{
+  "mongoURI": "YOUR_MONGODB_CONNECTION_STRING_GOES_HERE",
+  "jwtSecret": "buildghana_secret_token"
+}
